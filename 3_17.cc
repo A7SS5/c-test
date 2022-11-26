@@ -21,5 +21,5 @@ int main()
         std::cout<<p<<" ";
     }
 
-    std::cout<<"12334"<<std::endl;
+    std::cout<<"1234"<<std::endl;
 }
