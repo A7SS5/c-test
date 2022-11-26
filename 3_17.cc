@@ -20,4 +20,6 @@ int main()
     {
         std::cout<<p<<" ";
     }
+
+    std::cout<<"12"<<std::endl;
 }
